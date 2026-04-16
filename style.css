@@ -11,15 +11,17 @@ body {
 .h1_abibas_head{
   margin-left: 100px;
 }
-.a_header{
-  margin-right: auto;
-}
-
 .header {
   display: flex;
+  align-items: center;
   padding: 20px;
   background: #ddd;
 }
+
+.header nav {
+  margin-right: auto;
+}
+
 
 .header a {
   margin-left: 20px;
