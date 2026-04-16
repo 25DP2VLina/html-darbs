@@ -88,7 +88,6 @@ width: 400px;
   font-weight: bold;
 }
 
-/* SHOP CONTROLS */
 .shop-controls {
   display: flex;
   gap: 10px;
@@ -100,7 +99,6 @@ width: 400px;
   padding: 10px;
 }
 
-/* FOOTER */
 footer {
   background: #7b7b7b;
   padding: 20px;
